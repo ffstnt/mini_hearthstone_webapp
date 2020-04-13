@@ -1,0 +1,4 @@
+pip
+Flask
+requests
+requests_cache
