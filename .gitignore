@@ -1,3 +1,4 @@
 flask_venv/
 instance/
-
+*.swp
+*.swo
